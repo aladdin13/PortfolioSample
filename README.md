@@ -6,17 +6,10 @@ Portfolio Sample
 ## デモ
 [webサイトをみる](https://aladdin-portfolio-sample.herokuapp.com/)
 
+![スクリーンショット (2)](https://user-images.githubusercontent.com/85302127/123589200-d7bee900-d823-11eb-93d1-a099b8521f00.png)
+
 ## 利用している技術
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS
 
 ## インスール方法
-インストールの仕方を記載する。
-
-### その他に記載すると良い事項
-* システム構成図
-* 使い方
-    * インストール方法
-    * テスト方法
-    * デプロイ方法
-* こだわりポイント
-* ライセンス情報
+そのままindex.htmlをブラウザで開くと閲覧できます。
